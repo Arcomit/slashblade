@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SlashBlade_2
+MixinConfigs: slashblade.mixins.json
+Implementation-Version: 0.0.12
+Specification-Vendor: flammpfeil
+Specification-Title: slashblade
+Implementation-Timestamp: 2021-08-11T20:14:59+0900
+Specification-Version: 1
+Implementation-Vendor: flammpfeil
+

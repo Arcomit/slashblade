@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "mods/flammpfeil/slashblade/mixin/MixinPacketBuffer": {
+      "readItemStack()Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/network/PacketBuffer;func_150791_c()Lnet/minecraft/item/ItemStack;"
+    }
+  },
+  "data": {
+    "searge": {
+      "mods/flammpfeil/slashblade/mixin/MixinPacketBuffer": {
+        "readItemStack()Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/network/PacketBuffer;func_150791_c()Lnet/minecraft/item/ItemStack;"
+      }
+    }
+  }
+}
